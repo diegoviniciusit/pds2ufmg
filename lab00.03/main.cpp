@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int main(){
-    long value1=200000;
+int main() {
+    long value1 = 200000;
     long value2;
     long *ptr;
     
