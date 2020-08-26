@@ -1,2 +1,2 @@
 # pds2ufmg
-Atividades de PDS2 do curso Sistemas de Informação da UFMG
+Atividades da disciplina Programação e Desenvolvimento de Software II, em C++
